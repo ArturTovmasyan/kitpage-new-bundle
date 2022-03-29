@@ -1,7 +1,7 @@
 {
     "name": "imt/kitpages",
     "type": "symfony-bundle",
-    "description": "Symfony DataGridBundle",
+    "description": "IMT DataGridBundle",
     "keywords": ["Datagrid", "paginator", "filter", "sort"],
     "homepage": "git@bitbucket.org:ArturTovmasyan/kitpage-new.git",
     "license": "MIT",
